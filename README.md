@@ -1,5 +1,8 @@
 # Hi 👋🏼 soy Angeel.
 
+* 👨🏻‍💻 Soy Desarrollador Javascript (Frontend especialmente).
+
+
 <!--
 **AngeelRdz/AngeelRdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
