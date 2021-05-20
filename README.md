@@ -1,4 +1,4 @@
-# Hi 👋🏼 soy Angeel. tag
+# Hi 👋🏼 soy Angeel.
 
 <!--
 **AngeelRdz/AngeelRdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
