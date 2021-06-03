@@ -2,6 +2,28 @@
 
 * 👨🏻‍💻 Soy Desarrollador Javascript (Frontend especialmente).
 
+### ⚡ Un poco de mi...
+
+```javascript
+const toolsIuse = {
+  code: ["Javascript", "Typescript"],
+  technologies: {
+    frontEnd: {
+      html:["Html5"],
+      libraries: ["React"],
+      css: ["sass", "css in js", "css3"],
+      framework: ["material UI", "boostrap"],
+      others: ["redux", "webpack", "middleware"],
+    },
+    backEnd: {
+      js: ["node"],
+      libraries: ["express"],
+    },
+    databases: ["mySql", "sqlServer"],
+    misc: ["git", "codeCommit" "agile", "jira", ""],
+  },
+ ```
+
 
 <!--
 **AngeelRdz/AngeelRdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
