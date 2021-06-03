@@ -25,7 +25,7 @@ const toolsIuse = {
  ```
 <br />
 
-Sígueme en [Twitter](https://twitter.com/angeluchh) ✨
+Sígueme en [Twitter](https://twitter.com/angeluchh/?target=_blank) ✨
 
 <!--
 **AngeelRdz/AngeelRdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
