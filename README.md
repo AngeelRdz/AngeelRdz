@@ -2,7 +2,7 @@
 
 * 👨🏻‍💻 Soy Desarrollador Javascript (Frontend especialmente).
 
-### ⚡ Un poco de mi...
+### ⚡ Un poco más sobre mi... 👩🏻‍💻
 
 ```javascript
 const toolsIuse = {
@@ -20,10 +20,12 @@ const toolsIuse = {
       libraries: ["express"],
     },
     databases: ["mySql", "sqlServer"],
-    misc: ["git", "codeCommit" "agile", "jira", ""],
+    misc: ["git", "codeCommit", "agile", "bitbucket - jira"],
   },
  ```
+<br />
 
+Sígueme en [Twitter](https://twitter.com/angeluchh) ✨
 
 <!--
 **AngeelRdz/AngeelRdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
